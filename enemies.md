@@ -1,4 +1,5 @@
-# Normal Bosses 
+<details>
+  <Summary># Normal Bosses</Summary>> 
 <details>
   <summary>Lv5 Werewolf 1.3M</summary>
 t8 Cavalry 30,000 => Wounded 180
@@ -114,6 +115,8 @@ t10 Cavalry 150,000 - Wounded 534
 t10 Cavalry 280,000 - Wounded 0
 t11 Cavalry 100,000 - Wounded 300
 t11 Cavalry 150,000 - Wounded 0
+</details>
+
 </details>
 
 <details>
