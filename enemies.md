@@ -117,30 +117,36 @@ t11 Cavalry 150,000 - Wounded 0
 </details>
 
 <details>
-  <summary><b>Lava Turtles</b></summary>  
+  <summary><b>Lava Turtles</b></summary>
+  
   <details>
     <summary>Lv1 Lava Turtle 12.4M</summary>
   t10 Cavalry 144,855 - Wounded 2,168
   </details>
+  
   <details>
     <summary>Lv2 Lava Turtle 22.3M</summary>
   t11 Cavalry 380,000 = Wounded 0
   t12 Cavalry 340,000 = Wounded 0
   </details>
+  
   <details>
     <summary>Lv3 Lava Turtle 74.5M</summary>
   t12 Cavalry 708,200 = Wounded 7,002
   </details>
+  
   <details>
     <summary>Lv4 Lava Turtle 147.5M</summary>
   t13 Cavalry 1,126,550 - Wounded 15,276
   t13 Cavalry 1,507,500 - Wounded 7,174
   </details>
+  
   <details>
     <summary>Lv5 Lava Turtle 225.2M</summary>
   t14 Cavalry 1,653,250 - Wounded 7,839
   t14 Cavalry 1,931,300 - Wounded 0 (Atk Buff 1,384%)
   </details>
+  
 </details>
 
 <details>
